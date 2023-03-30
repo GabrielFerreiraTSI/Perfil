@@ -1,8 +1,8 @@
 # Perfil
-Perfil profissional
+**Perfil profissional**
 
 - Estudante de Sistemas de Informação da Universidade São José
-- Desenvolvedor Back-End
-- Desenvolvedor Front-End
+- Desenvolvedor *back-end*
+- Desenvolvedor *front-end*
 - Modelagem de Dados
 - Língua Inglesa Intermediário
